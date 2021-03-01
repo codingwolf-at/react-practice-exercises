@@ -1,4 +1,4 @@
-# React Practice Exercises
+# React Practice Exercises ⚛️
 
 ## CodeSandbox links for all the react practice exercises
 
@@ -13,7 +13,7 @@
 - ex0: add to cart : [click here](https://codesandbox.io/s/shopping-cart-606gh)
 - ex0: switch tabs : [click here](https://codesandbox.io/s/switch-tabs-mbold)
 - ex: toast : [click here](https://codesandbox.io/s/show-toast-8xe04)
-- ex: todo/strike-through
+- ex: todo/strike-through :
 - ex: dark mode : [click here](https://codesandbox.io/s/darklight-mode-km838)
 - ex: like in a list : [click here](https://codesandbox.io/s/like-in-a-list-bjswc)
 
