@@ -11,7 +11,7 @@
 - EX06 __Cart__ : [click here](https://codesandbox.io/s/shopping-cart-606gh)
 - EX07 __Switch Tabs__ : [click here](https://codesandbox.io/s/switch-tabs-mbold)
 - EX08 __Show/Hide Toast__ : [click here](https://codesandbox.io/s/show-toast-8xe04)
-- EX09 __TODO__ : (will update in a day or two)
+- EX09 __TODO__ : [click here](https://codesandbox.io/s/todo-app-trxi9)
 - EX010 __Dark Mode__ : [click here](https://codesandbox.io/s/darklight-mode-km838)
 - EX11 __Like in a List__ : [click here](https://codesandbox.io/s/like-in-a-list-bjswc)
 
